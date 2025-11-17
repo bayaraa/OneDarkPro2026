@@ -1,6 +1,6 @@
 Name: One Dark Pro 2026
 Identity: OneDarkPro2026
-Version: 1.0.0
+Version: 1.0.1
 GUID: 0024020f-bba3-4365-9ea1-63b23313d509
 BaseGUID: 1ded0138-47ce-435e-84ef-9ec1f439b749
 
@@ -775,6 +775,16 @@ Sections:
     ButtonTextDisabled: ["#6e7075", null]
     TargetHoverText: ["#bdbdbd", null]
     ToolWindowSplitBarBackground: ["#353941", null]
+  EditorOverride:
+    GUID: 656339d7-0e39-43e2-98aa-becc3f87ffa5
+    PopupBackground: ["#282c34", null]
+    PopupBorder: ["#22262e", null]
+    PopupHyperlink: ["#83beeb", null]
+    PopupSelectedBackground: ["#353840", null]
+    PopupSelectedText: ["#fafafa", null]
+    PopupShadow: ["#0000004d", null]
+    PopupSubtleText: ["#a1a1a1", null]
+    PopupText: ["#fafafa", null]
   Editor Tooltip:
     GUID: a9a5637f-b2a8-422e-8fb5-dfb4625f0111
     Plain Text: [null, "#bdbdbd"]
@@ -2458,9 +2468,11 @@ Sections:
     AccentFillSecondary: ["#39404fe5", null]
     AccentFillTertiary: ["#39404fcc", null]
     SolidBackgroundFillTertiary: ["#282c34", null]
-    SolidBackgroundFillQuaternary: ["#313234", null]
+    SolidBackgroundFillQuaternary: ["#2e323a", null]
     TextFillSecondary: ["#ffffffcc", null]
     SystemFillAttention: ["#588295", null]
+    SystemFillSolidAttentionBackground: ['#2e323a', null]
+    SystemFillSolidNeutralBackground: ['#2e323a', null]
   ShellInternal:
     GUID: 5af241b7-5627-4d12-bfb1-2b67d11127d7
     EnvironmentBackground: ["#2e323a", null]
