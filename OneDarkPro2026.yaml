@@ -1,6 +1,6 @@
 Name: One Dark Pro 2026
 Identity: OneDarkPro2026
-Version: 1.0.4
+Version: 1.0.5
 GUID: 0024020f-bba3-4365-9ea1-63b23313d509
 BaseGUID: 1ded0138-47ce-435e-84ef-9ec1f439b749
 
@@ -2501,10 +2501,15 @@ Sections:
     DividerStrokeDefault: ["#343840", null]
   ShellInternal:
     GUID: 5af241b7-5627-4d12-bfb1-2b67d11127d7
+    EnvironmentBody: ["#2e323a", null]
     EnvironmentBackground: ["#2e323a", null]
     EnvironmentBorder: ["#39404f", null]
     EnvironmentBorderInactive: ["#39404f", null]
     EnvironmentIndicator: ["#ffffff60", null]
     EnvironmentLogo: ["#54a4e3", null]
+    EnvironmentHeader: ["#282c34", null]
+    EnvironmentHeaderInactive: ["#282c34", null]
+    EnvironmentTab: ["#2e323a", null]
+    EnvironmentTabInactive: ["#2e323a", null]
     EnvironmentLayeredBackground: ["#0000004d", null]
     StatusBarBackgroundFillSolutionLoading: ["#0000004d", null]
