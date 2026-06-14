@@ -2513,3 +2513,14 @@ Sections:
     EnvironmentTabInactive: ["#2e323a", null]
     EnvironmentLayeredBackground: ["#0000004d", null]
     StatusBarBackgroundFillSolutionLoading: ["#0000004d", null]
+  SearchControl:
+    FocusedBackground: '#282C34'
+    FocusedBorder: '#61AFEF'
+    SearchActiveBackground: '#282C34'
+    Unfocused: '#21252B'
+    UnfocusedBorder: '#3E4451'
+    Selection: '#3E4451'
+    SearchGlyph: '#ABB2BF'
+    ClearGlyph: '#ABB2BF'
+    PopupBorder: '#3E4451'
+    PopupItemText: '#ABB2BF'
